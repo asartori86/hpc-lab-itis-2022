@@ -27,5 +27,5 @@ Tutorials are run by the lecturers.
 | 24/01/2022 - 08:30-11:00 | [Installing scientific software](InstallingSoftware.pdf)     SC        |  [Installing openblas and openMPI](installing-scientific-libraries/README.md)     | 
 | 24/01/2022 - 11:30-13:30 | Again on installing scientific software  AS       | writing a module        | 
 | 25/01/2022 - 08:30-11:00 | [Intro to Benchmarking part 1](intro2benchmarking.pdf)  SC  |  [Install and run HPC benchmarks (part 1)](benchmarking-hpc-nodes/README.md)    | 
-| 25/01/2022 - 11:30-13:30 | [Intro to Benchmarking part 2](intro2benchmarking.pdf)  SC  |  [Install and run HPC benchmarks(part 2)](benchmarking-hpc-nodes/README.md)      | 
+| 25/01/2022 - 11:30-13:30 | [Intro to Benchmarking part 2](intro2benchmarking.pdf)  SC  |  [Install and run HPC benchmarks (part 2)](benchmarking-hpc-nodes/README.md)      | 
 | 27/01/2022 - 08:30-11:30 | Final exam              | Visit to the orfeo Data Center      | 
