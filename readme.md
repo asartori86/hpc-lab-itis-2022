@@ -9,18 +9,23 @@ The scope of the course is to give you:
 - an introduction to the modern HPC infrastructures 
 - an introduction to bash scripting for managing HPC infrastructure and scientific software
 
+SC = Stefano Cozzini
+AS = Alberto Sartori
+
+Tutorials are run by the lecturers.
+
 ### Calendar 
 
 | DATE/TIME        | LECTURES                                                     | TUTORIALS                                       |
 | :---------- | :----------------------------------------------------------- | :--------------------------------------------------- | 
-| 17/01/2022 - 13:00-15:00 | [1] [Introduction to course/ introduction to HPC](Intro/README.md)    |  Accessing/Using ORFEO hpc cluster       | 
-| 17/01/2022 - 15:30-18:00 | [1] [Introduction to PBSPRO on ORFEO ](Intro/README.md)               |  Using ORFEO PBSPRO cluster    | 
-| 18/01/2022 - 08:30-11:00 | [1] [introduction to modern multicore HPC nodes ](Intro/README.md)    |  Understanding multicores via likwid      |  
-| 18/01/2022 - 11:30-13:30 | [1] [benchmarking HPC infrastructure ](Intro/README.md)              |        |  
-| 20/01/2022 - 08:30-11:00 | [1] [installing scientific software ](Intro/README.md)              |      |  
-| 20/01/2022 - 11:30-13:30 | [1]             |      |  
-| 24/01/2022 - 08:30-11:00 | [1]              |        | 
-| 24/01/2022 - 11:30-13:30 | [1]           |        | 
-| 25/01/2022 - 08:30-11:00 | [1]            |        | 
-| 25/01/2022 - 11:30-13:30 | [1]            |        | 
+| 17/01/2022 - 13:00-15:00 | [Introduction to HPC and ORFEO cluster](introHPC.pdf) SC    |  [Accessing/Using ORFEO hpc cluster and its queue system](using-orfeo/README.md)       | 
+| 17/01/2022 - 15:30-18:00 | Introduction to HPC linux command line      AS     |  Using Linux command line   | 
+! 18/01/2022 - 08:30-11:00 | Bash scripting for HPC (part 1)   AS |    tutorial      |  
+| 18/01/2022 - 11:30-13:30 | Bash scripting for HPC (part 2)   AS  |   tutorial     |
+| 20/01/2022 - 08:30-11:00 | [introduction to modern multicore HPC nodes ](IntroMulticore.pdf) SC | [Understanding multicores via likwid and stream](understanding-multicores/README.md)  | 
+| 20/01/2022 - 11:30-13:30 | Bash scripting for HPC (part 3) AS  |  submit scalability jobs/ using stream       |
+| 24/01/2022 - 08:30-11:00 | [Installing scientific software](InstallingSoftware.pdf)     SC        |  [Installing openblas and openMPI](installing-scientific-libraries/README.md)     | 
+| 24/01/2022 - 11:30-13:30 | Again on installing scientific software  AS       | writing a module        | 
+| 25/01/2022 - 08:30-11:00 | [Intro to Benchmarking part 1](intro2benchmarking.pdf)  SC  |  [Install and run HPC benchmarks (part 1)](benchmarking-hpc-nodes/README.md)    | 
+| 25/01/2022 - 11:30-13:30 | [Intro to Benchmarking part 2](intro2benchmarking.pdf)  SC  |  [Install and run HPC benchmarks(part 2)](benchmarking-hpc-nodes/README.md)      | 
 | 27/01/2022 - 08:30-11:30 | Final exam              | Visit to the orfeo Data Center      | 
