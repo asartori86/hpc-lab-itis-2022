@@ -23,7 +23,7 @@ Tutorials are run by the lecturers.
 | 18/01/2022 - 08:30-11:00 | [Bash scripting for HPC (part 1)](https://docs.google.com/presentation/d/1sPKC3KUFY8bCH-l39fidDFbXPVKK9TCLdBTSQHzBG8U/edit?usp=sharing)   AS |    tutorial      |  
 | 18/01/2022 - 11:30-13:30 | [Bash scripting for HPC (part 2)](https://docs.google.com/presentation/d/1sPKC3KUFY8bCH-l39fidDFbXPVKK9TCLdBTSQHzBG8U/edit?usp=sharing)   AS  |   tutorial     |
 | 20/01/2022 - 13:00-15:00 | [introduction to modern multicore HPC nodes ](IntroMulticore.pdf) SC | [Understanding multicores via likwid and stream](understanding-multicores/README.md)  | 
-| 20/01/2022 - 15:30-18:00 | Bash scripting for HPC (part 3) AS  |  submit scalability jobs/ using stream       |
+| 20/01/2022 - 15:30-18:00 | [Bash scripting for HPC (part 3)](https://docs.google.com/presentation/d/1AaegSHxiq0fw6s8s-Q7SCpbloloz50nVYub2ndNgGAY/edit?usp=sharing) AS  |  submit scalability jobs/ using stream       |
 | 24/01/2022 - 08:30-11:00 | [Installing scientific software](InstallingSoftware.pdf)     SC        |  [Installing openblas and openMPI](installing-scientific-libraries/README.md)     | 
 | 24/01/2022 - 11:30-13:30 | Again on installing scientific software  AS       | writing a module        | 
 | 25/01/2022 - 08:30-11:00 | [Intro to Benchmarking part 1](intro2benchmarking.pdf)  SC  |  [Install and run HPC benchmarks (part 1)](benchmarking-hpc-nodes/README.md)    | 
