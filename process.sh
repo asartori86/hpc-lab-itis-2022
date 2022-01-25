@@ -6,7 +6,9 @@
 
 printf "%10s %10s %10s\n" "# core" "time s" "speed-up" 
 
-for f in ${1}*.o*
+files=(${1}*.o*) # gestisce correttamente gli spazi
+
+for f in "${files[@]}" 
 do
     # echo "${f}" # if file names contain spaces
 
